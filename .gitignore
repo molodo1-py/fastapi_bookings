@@ -1,0 +1,5 @@
+.env
+.env-non-dev
+.venv
+grafana-dashboard.json
+.pytest_cache
