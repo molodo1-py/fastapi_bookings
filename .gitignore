@@ -3,3 +3,4 @@
 .venv
 grafana-dashboard.json
 .pytest_cache
+index.html
